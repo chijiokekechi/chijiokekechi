@@ -46,9 +46,14 @@ Here are some ideas to get you started:
 
 - ⚡ Fun facts: **I enjoy watching anime, playing video games, working out at the gym, learning new dance moves, and creating pen and pencil arts.**
 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/chijiokekechi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chijiokekechi" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/chijioke-ekechi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chijioke-ekechi" height="30" width="40" /></a>
+<a href="https://fb.com/chijiokekechi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="chijiokekechi" height="30" width="40" /></a>
+<a href="https://instagram.com/chijioke.ekechi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chijioke.ekechi" height="30" width="40" /></a>
+<a href="https://medium.com/@chijiokekechi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@chijiokekechi" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/chijiokekechi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="chijiokekechi" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/chijiokekechi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="chijiokekechi" height="30" width="40" /></a>
 </p>
@@ -61,5 +66,6 @@ Here are some ideas to get you started:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chijiokekechi&show_icons=true&locale=en" alt="chijiokekechi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chijiokekechi&" alt="chijiokekechi" /></p>
+
 
 
