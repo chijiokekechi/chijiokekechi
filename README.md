@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+👋🏾 Hi! I’m Chijioke Ekechi, a Software Engineer who enjoys building things from the ground up, whether it’s full stack, backend, or infrastructure. My languages of choice include Python, Java, C/C++, Go, TypeScript, Kotlin, and JavaScript. Honestly, if it runs code, I’ll probably try to break (and then fix) it.
+
+🔭 I’ve worked on cool projects like GlamMe, the NetflixMusicProject (to learn Go lang), and CeesarWallet. I love taking on engineering puzzles, whether it’s designing scalable systems, taming wild APIs, or just making sure the servers don’t catch on fire.
+
+⚡ When I’m not coding, I might be leveling up in video games, sketching with pen and pencil, banging away on the drums, or pushing my limits at the gym. I believe good code and good coffee both deserve respect—and sometimes, a little bit of humor goes a long way.
+
+📫 Let’s connect! You can find me on [LinkedIn](https://www.linkedin.com/in/chijioke-ekechi). If you want to talk tech, gaming, art, or swap workout tips, I’m all ears.
