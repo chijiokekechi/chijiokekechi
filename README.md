@@ -31,11 +31,8 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chijiokekechi" alt="chijiokekechi" /></a> </p>
 
-- 🔭 I’m currently working on [a Netflix Music Service to learn GoLang](https://github.com/chijiokekechi/NetflixMusicProject)
+- 🔭 I’m currently working on [a Netflix Music Service to learn GoLang](https://github.com/chijiokekechi/NetflixMusicProject), [a Sports Betting prediction software](https://github.com/ceesartech/CeesarBetPredict), [an automated investments software](https://github.com/ceesartech/CeesarWallet), and [a Fantasy Premier League teams generation service](https://github.com/ceesartech/FantasyTeamGenerator)
 
-- 👯 I’m also working on [a Sports Betting prediction software](https://github.com/ceesartech/CeesarBetPredict)
-
-- 🤝 Again, I’m working on [an automated investments software](https://github.com/ceesartech/CeesarWallet)
 
 - 📫 How to reach me **chijiokekechi@gmail.com**
 
